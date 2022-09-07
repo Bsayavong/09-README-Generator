@@ -17,4 +17,6 @@ function generateMarkdown(data) {
 `;
 }
 
+//use conditional statement i.e if/else/return
+
 module.exports = generateMarkdown;
